@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CS311T_U2_SubNodeQuestion2_RafsanBhuiyan</string>
+    <string name="calculator">Calculator</string>
+    <string name="input_second_number">Input Second Number</string>
+    <string name="input_number">Input Number</string>
+    <string name="modOperator">%</string>
+    <string name="addButton">+</string>
+    <string name="subButton">-</string>
+    <string name="divButton">/</string>
+    <string name="powerButton">^</string>
+</resources>
